@@ -1,4 +1,5 @@
-I am Besan, currently a senior majoring in Computer Science with a concentration in Cyber Security and this is my about me section.
+**About Me:**
+I am Besan, currently a senior majoring in Computer Science with a concentration in Cyber Security. My academic journey and hands-on projects have fueled my passion for leveraging technology to solve real-world problems and security practices.
 
 
 **Projects:**
